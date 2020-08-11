@@ -1,5 +1,5 @@
 #Defining the source Image
-From ubuntu:16.04
+FROM ubuntu:16.04
 
 #Creating a directory, for testing only not used anywhere
 RUN mkdir -p pranav
